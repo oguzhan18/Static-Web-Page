@@ -1,8 +1,7 @@
 # Static-Web-Page
 A web application where you can create a simple static web page that I created with GrapesJS.
 #
-#
-<a href="static-web-page.rf.gd/">Live Demo</a>
+<a href="http://static-web-page.rf.gd/">Live Demo</a>
 ## Badges
 
 Use it as you want
@@ -19,14 +18,16 @@ Use it as you want
 
 
 ## Screenshots
-<img src="ss/1.png">
-<img src="ss/2.png">
-<img src="ss/3.png">
-<img src="ss/4.png">
-<img src="ss/5.png">
-<img src="ss/6.png">
-<img src="ss/7.png">
-<img src="ss/8.png">
+<a href="http://static-web-page.rf.gd/">
+<img src="ss/1.png" width="600px" target="_blank">
+<img src="ss/2.png" width="600px" target="_blank">
+<img src="ss/3.png" width="600px" target="_blank">
+<img src="ss/4.png" width="600px" target="_blank">
+<img src="ss/5.png" width="600px" target="_blank">
+<img src="ss/6.png" width="600px" target="_blank">
+<img src="ss/7.png" width="600px" target="_blank">
+<img src="ss/8.png" width="600px" target="_blank">
+</a>
 
 ## For Support
 For support, send an email to oguzhancart1@gmail.com or you are invited to our telegram channel https://t.me/vsform_tr  
